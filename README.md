@@ -28,15 +28,15 @@ C++
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Microsoft Learn](https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170)
 - [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
+- [GCC Online Documentation](https://gcc.gnu.org/onlinedocs/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+- Implement a formatNumber() helper function to automatically remove unnecessary decimal places when the number is whole.
+- Add input validation for numbers using cin.peek() or by reading input as strings and parsing them safely
+- Extend functionality to support more advanced operations
 
-- Item 1
-- Item 2
-- Item 3
+{g++ calculator.cpp -o calculator.exe}
+{./calculator.exe}
