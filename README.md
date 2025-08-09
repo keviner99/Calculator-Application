@@ -18,7 +18,7 @@ The purpose of writing this software was to demonstrate my understanding of basi
 
 7. Data structure from STL (such as a vector, list, or map)
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=Cn2fAfAz7gE)
 
 # Development Environment
 

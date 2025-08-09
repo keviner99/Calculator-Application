@@ -198,3 +198,5 @@ int main()
     // Exit the program
     return 0;
 }
+// I used this resource as a guide for a general overview of the application
+// https://www.geeksforgeeks.org/cpp/c-c-program-to-make-a-simple-calculator/
